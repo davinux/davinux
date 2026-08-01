@@ -56,10 +56,9 @@ Ask me about motorbikes 🏍️, aeromodels ✈️, virtual reality 🥽 and hom
 | [sudoku](https://github.com/davinux/sudoku) | Basic sudoku game | HTML |
 | [2048](https://github.com/davinux/2048) | Basic 2048 game | HTML |
 | [homepage](https://github.com/davinux/homepage) | Basic homepage for managing bookmarks | HTML |
-| [padelyrisas](https://github.com/davinux/padelyrisas) | Página web del grupo Padel y Risas | CSS |
-| [generative-ai-for-beginners](https://github.com/davinux/generative-ai-for-beginners) | 12 lessons to get started with Generative AI | Jupyter |
-
 ---
+
+
 
 **Thanks for stopping by!** ⭐
 
