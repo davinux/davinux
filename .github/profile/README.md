@@ -88,13 +88,6 @@ focus: Full-Stack Development, DevOps, Homelab
 
 ---
 
-## 📝 Latest Blog Posts / Articles
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🎯 Current Goals (2026)
 
 - [ ] Achieve CKA certification
@@ -122,15 +115,4 @@ focus: Full-Stack Development, DevOps, Homelab
 
 ### 💬 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-![Snake animation](https://github.com/davinux/davinux/blob/output/github-contribution-grid-snake.svg)
-
 </div>
-
----
-
-<details>
-<summary><b>📈 Contribution Graph</b></summary>
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=davinux&theme=tokyo-night&hide_border=true)
-
-</details>
