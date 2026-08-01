@@ -49,10 +49,15 @@ Ask me about motorbikes 🏍️, aeromodels ✈️, virtual reality 🥽 and hom
 
 ---
 
-### 📊 GitHub Stats
+### 📂 Public Repositories
 
-<img src="https://github-readme-stats.vercel.app/api?username=davinux&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davinux&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" height="170"/>
+| Repository | Description | Language |
+|---|---|---|
+| [sudoku](https://github.com/davinux/sudoku) | Basic sudoku game | HTML |
+| [2048](https://github.com/davinux/2048) | Basic 2048 game | HTML |
+| [homepage](https://github.com/davinux/homepage) | Basic homepage for managing bookmarks | HTML |
+| [padelyrisas](https://github.com/davinux/padelyrisas) | Página web del grupo Padel y Risas | CSS |
+| [generative-ai-for-beginners](https://github.com/davinux/generative-ai-for-beginners) | 12 lessons to get started with Generative AI | Jupyter |
 
 ---
 
